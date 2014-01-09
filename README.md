@@ -1,1 +1,1 @@
-kitkat randisk fo captivate
+kitkat ramdisk fo captivate
